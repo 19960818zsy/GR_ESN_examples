@@ -1,0 +1,6 @@
+Creating network ............
+Learning and testing.........
+netDim = 100   specRad =  0.8   noise = 0.001    
+train NRMSE = 0.027028
+test NRMSE = 0.14481
+average output weights = 1.1911
